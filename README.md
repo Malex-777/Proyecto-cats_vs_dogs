@@ -1,2 +1,3 @@
 # Proyecto-cats_vs_dogs
-Identificador 
+Entrenando un clasificador de imágenes desde cero en el conjunto de datos Kaggle Cats vs Dogs.
+Creado en Google Colab
